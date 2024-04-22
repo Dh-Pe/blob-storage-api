@@ -1,0 +1,11 @@
+name = "blob-storage-back"
+main = "src/index.ts"
+compatibility_date = "2024-04-19"
+node_compat = true
+[vars]
+CF_REGION = ""
+CF_ENDPOINT = ""
+CF_ACCESS_KEY_ID = ""
+CF_SECRET_ACCESS_KEY = ""
+CF_BUCKET = ""
+CF_BUCKET_FILE_URL = ""
